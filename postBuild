@@ -6,5 +6,6 @@ jupyter nbextension enable --py jupyter_offlinenotebook --sys-prefix
 jupyter serverextension install --py jupyter_offlinenotebook --sys-prefix
 jupyter serverextension enable --py jupyter_offlinenotebook --sys-prefix
 
+jupyter labextension install @jupyterlab/toc
 # jupyter labextension install @jupyterlab/debugger
-# jupyter labextension install @jupyterlab/toc
+
