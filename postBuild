@@ -1,11 +1,7 @@
 jupyter serverextension enable --py nbgitpuller --sys-prefix
+jupyter labextension install @jupyterlab/debugger@0.3.2 --debug --no-build
+jupyter lab build --minimize=False
 
-jupyter nbextension install --py jupyter_offlinenotebook --sys-prefix
-jupyter nbextension enable --py jupyter_offlinenotebook --sys-prefix
+# jupyter labextension install @jupyterlab/toc
 
-jupyter serverextension install --py jupyter_offlinenotebook --sys-prefix
-jupyter serverextension enable --py jupyter_offlinenotebook --sys-prefix
-
-jupyter labextension install @jupyterlab/toc
-# jupyter labextension install @jupyterlab/debugger
 
