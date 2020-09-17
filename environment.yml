@@ -12,6 +12,7 @@ dependencies:
   - xtensor-blas=0.17.1
   - notebook
   - nbgitpuller
+  - jupyter-offlinenotebook  
 #   - xeus-python=0.8.0 
 #   - ptvsd 
 #   - nodejs
