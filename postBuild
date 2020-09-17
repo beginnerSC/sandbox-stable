@@ -1,7 +1,4 @@
 jupyter serverextension enable --py nbgitpuller --sys-prefix
 jupyter labextension install @jupyterlab/debugger@0.3.2 --debug --no-build
+jupyter labextension install @jupyterlab/toc
 jupyter lab build --minimize=False
-
-# jupyter labextension install @jupyterlab/toc
-
-
