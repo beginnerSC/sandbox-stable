@@ -11,6 +11,6 @@ echo 'function cnp() {                                                          
 echo '    git add *                                                                       ' >> .bashrc
 echo '    git config --global user.name "beginnerSC"                                      ' >> .bashrc
 echo '    git config --global user.email "25188222+beginnerSC@users.noreply.github.com"   ' >> .bashrc
-echo '    git commit -a -m "update"                                                       ' >> .bashrc
+echo '    git commit -a -m "autosave"                                                     ' >> .bashrc
 echo '    git push                                                                        ' >> .bashrc
 echo '}                                                                                   ' >> .bashrc
