@@ -18,6 +18,9 @@ dependencies:
   - ptvsd
   - xeus-python=0.8.0
   - nbgitpuller
+  - pandoc
+  - sphinx
+  - nbsphinx
   - pip
   - pip: 
     - bash_kernel
