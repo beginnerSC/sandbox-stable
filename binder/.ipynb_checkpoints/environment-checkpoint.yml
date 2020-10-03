@@ -24,3 +24,5 @@ dependencies:
   - pip
   - pip: 
     - bash_kernel
+    - sphinx_rtd_theme
+    
