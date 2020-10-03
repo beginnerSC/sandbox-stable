@@ -1,5 +1,5 @@
 cron
-pandoc
+vim
 dvipng
 ghostscript
 texlive-fonts-recommended
