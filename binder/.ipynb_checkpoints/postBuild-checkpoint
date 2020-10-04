@@ -14,3 +14,5 @@ echo '    git config --global user.email "25188222+beginnerSC@users.noreply.gith
 echo '    git commit -a -m "autosave"                                                     ' >> .bashrc
 echo '    git push                                                                        ' >> .bashrc
 echo '}                                                                                   ' >> .bashrc
+
+sed -i 's/{article}/{article}\n\\usepackage{xeCJK}/' $(find ../../.. -name "article.tplx")
