@@ -21,8 +21,11 @@ dependencies:
   - pandoc
   - sphinx
   - nbsphinx
+  - jupyterlab-git
   - pip
   - pip: 
     - bash_kernel
     - sphinx_rtd_theme
+    - nbdime
+    
     
