@@ -28,4 +28,4 @@ dependencies:
     - sphinx_rtd_theme
     - nbdime
     - yfinance
-    
+    - schedule 
