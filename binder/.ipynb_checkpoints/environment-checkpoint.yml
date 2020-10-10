@@ -29,3 +29,4 @@ dependencies:
     - nbdime
     - yfinance
     - schedule 
+    - ipywidgets
