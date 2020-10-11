@@ -21,11 +21,11 @@ dependencies:
   - pandoc
   - sphinx
   - nbsphinx
-#   - jupyterlab-git
+  - jupyterlab-git
   - pip
   - pip: 
     - bash_kernel
     - sphinx_rtd_theme
-#     - nbdime
+    - nbdime
     - yfinance
     - schedule 
