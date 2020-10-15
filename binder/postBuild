@@ -20,4 +20,4 @@ echo '    git commit -a -m "autosave"                                           
 echo '    git push                                                                        ' >> .bashrc
 echo '}                                                                                   ' >> .bashrc
 
-sed -i 's/{article}/{article}\n\\usepackage{xeCJK}/' $(find ../../.. -name "article.tplx")
+# sed -i 's/{article}/{article}\n\\usepackage{xeCJK}/' $(find ../../.. -name "article.tplx")
