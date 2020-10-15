@@ -22,6 +22,7 @@ dependencies:
   - sphinx
   - nbsphinx
   - jupyterlab-git
+  - voila
   - pip
   - pip: 
     - bash_kernel
