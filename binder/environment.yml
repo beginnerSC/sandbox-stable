@@ -24,6 +24,7 @@ dependencies:
   - jupyterlab-git
   - voila
   - rise
+  - ipysheet
   - pip
   - pip: 
     - bash_kernel
