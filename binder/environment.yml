@@ -36,4 +36,4 @@ dependencies:
     - numdifftools
     - hvplot
     - rpy2
-    
+    - KDEpy    
