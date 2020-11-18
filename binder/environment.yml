@@ -36,4 +36,5 @@ dependencies:
     - numdifftools
     - hvplot
     - rpy2
-    - KDEpy    
+    - KDEpy
+    - pygam
