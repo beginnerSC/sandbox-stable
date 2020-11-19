@@ -38,3 +38,4 @@ dependencies:
     - rpy2
     - KDEpy
     - pygam
+    - get-all-tickers
