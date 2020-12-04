@@ -39,3 +39,4 @@ dependencies:
     - KDEpy
     - pygam
     - get-all-tickers
+    - pyDiffMap
