@@ -40,3 +40,4 @@ dependencies:
     - pygam
     - get-all-tickers
     - pyDiffMap
+    - pdpbox
