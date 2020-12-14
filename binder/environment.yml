@@ -41,3 +41,4 @@ dependencies:
     - get-all-tickers
     - pyDiffMap
     - pdpbox
+    - arch
