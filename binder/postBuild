@@ -12,6 +12,11 @@ jupyter labextension install @pyviz/jupyterlab_pyviz
 jupyter labextension install ipysheet
 jupyter lab build --minimize=False
 
+
+git clone https://github.com/minrk/allthekernels.git
+python3 -m pip install allthekernels
+
+
 echo '\n# git add commit and push in one command \n' >> .bashrc
 
 echo 'function cnp() {                                                                    ' >> .bashrc
