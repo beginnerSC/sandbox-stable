@@ -42,3 +42,5 @@ dependencies:
     - pyDiffMap
     - pdpbox
     - arch
+    - hide_code
+    - hide_code[lab]
