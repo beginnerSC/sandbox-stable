@@ -9,9 +9,9 @@ dependencies:
   - matplotlib
   - bokeh
   - scikit-learn 
-  - xeus-cling=0.10.0
-  - xtensor=0.21.2
-  - xtensor-blas=0.17.1
+  - xeus-cling=0.12.0
+  - xtensor=0.23.0
+  - xtensor-blas=0.19.0
   - jupyterlab=2
   - nodejs
   - notebook=6
